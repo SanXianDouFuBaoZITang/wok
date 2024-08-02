@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  A script to play FLAC audio files on www.baidu.com
 // @author       Now，See My Name & say its too late to pologize
-// @match        https://www.baidu.com/
+// @match        https://www.baidu.com/*
 // @grant        none
 // ==/UserScript==
 
